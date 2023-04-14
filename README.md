@@ -7,6 +7,7 @@
 
 ## Overview
 ## Task1
+실사 이미지를 그림으로
 ### model
 **AdaIN**<br/>
 ![009](https://user-images.githubusercontent.com/108793862/232029174-2a9beb5a-5903-41b6-bcab-0dc8fae953fc.png)
@@ -15,6 +16,7 @@
 ![020](https://user-images.githubusercontent.com/108793862/232029311-86ef2536-94c7-4ba6-8a48-cf182ffeb96b.png)
 
 ## Task2
+그림을 실사 이미지로
 ### model
 **CycleGAN**<br/>
 ![037](https://user-images.githubusercontent.com/108793862/232029365-0e134d8e-ec91-448e-b25b-a2308d4a1aa5.png)
